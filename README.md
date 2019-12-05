@@ -1,4 +1,4 @@
-# Разработка инфраструктуры больших данных с помощью docker-compose.
+# Разработка инфраструктуры BigData.
 <br> Как установить HDFS, Hive, Spark, Hue, Zeppelin, Kafka, Zookeeper и Streamsets в контейнерах Docker, используя docker-compose. 
 <br> Просто запустит run `docker-compose up`! 
 
